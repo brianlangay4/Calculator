@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class practice {
     public static void main(String[] args) {
+        //program starts here
+        System.out.println("welcome ");
         System.out.println("enter the 1st number:");
         //first input from user
         Scanner number1 = new Scanner(System.in);
