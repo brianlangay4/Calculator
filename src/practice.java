@@ -14,7 +14,7 @@ public class practice {
         Scanner number2 = new Scanner(System.in);
         int b = number2.nextInt();
         //third input
-        System.out.println("input the method example (plus or minus):");
+        System.out.println("input the method example (plus(+) or minus(-)):");
         Scanner method = new Scanner(System.in);
         String c = method.next();
         //my conditions for the inputs
